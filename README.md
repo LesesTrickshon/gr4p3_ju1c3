@@ -13,5 +13,5 @@ ios 13.2 - 17.6.1
   - Also all the ios 18 beta versions included
 ---
 Special thanks to:
-[opa334](https://x.com/opa334dev) for helping to create the injection tool
-[straight tamago](https://x.com/straight_tamago) for helping to port it to all those ios versions.
+- [opa334](https://x.com/opa334dev) for helping to create the injection tool
+-[straight tamago](https://x.com/straight_tamago) for helping to port it to all those ios versions.
