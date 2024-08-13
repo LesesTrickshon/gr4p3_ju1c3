@@ -1,6 +1,6 @@
 # gr4p3_ju1c3
 ## The best Jelbrake tool for any iDevice
-![logo](https://img.imageboss.me/fourwinds/width/425/dpr:2/shop/products/rubyseedlessgrapes.jpg?v=1538781780)
+![screenshots](https://raw.githubusercontent.com/LesesTrickshon/gr4p3_ju1c3/main/meta/screenshots/Screenshots-full.jpeg)
 ---
 ### How it operates
 It is actually pretty simple and I was surprised that no other jelbrake didn't use this method.
