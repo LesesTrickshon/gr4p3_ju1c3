@@ -2,6 +2,9 @@
 ## The best Jelbrake tool for any iDevice
 ![screenshots](https://raw.githubusercontent.com/LesesTrickshon/gr4p3_ju1c3/main/meta/screenshots/Screenshots-full.jpeg)
 ---
+### Installation
+You can find the instalation tuorial [here.](meta/tutorial.md)
+---
 ### How it operates
 It is actually pretty simple and I was surprised that no other jelbrake didn't use this method.
 1. The gr4p3_ju1c3 app takes a full backup of your device
