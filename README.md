@@ -13,7 +13,7 @@ It is actually pretty simple and I was surprised that no other jelbrake didn't u
   Done. You are now Jelbricken
 ---
 ### Which ios version does it work on?
-ios 15.1.1 - 17.6.1
+ios 15.0 - 17.6.1
   - Also all the ios 18 beta versions included
 ---
 Special thanks to:
